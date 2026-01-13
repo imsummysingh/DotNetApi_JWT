@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\migrations\\20260112201207_jwtauthentication-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:migrations\\20260112201207_jwtauthentication-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:controllers\\authorizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:service\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|d:\\dotnetapi_jwt\\webapi_jwtauth\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11065E9B-9648-4575-8CE2-0B5BB0689D4F}|WebApi_JWTAuth.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,48 +54,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260112201207_JwtAuthentication-1.cs",
-              "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Migrations\\20260112201207_JwtAuthentication-1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260112201207_JwtAuthentication-1.cs",
-              "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Migrations\\20260112201207_JwtAuthentication-1.cs",
-              "RelativeToolTip": "Migrations\\20260112201207_JwtAuthentication-1.cs",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-13T13:12:36.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T20:12:07.837Z",
+              "WhenOpened": "2026-01-13T13:09:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Models\\TokenModel.cs",
+              "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Models\\TokenModel.cs",
+              "RelativeToolTip": "Models\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:54:04.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AuthorizeController.cs",
+              "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Controllers\\AuthorizeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorizeController.cs",
+              "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Controllers\\AuthorizeController.cs",
+              "RelativeToolTip": "Controllers\\AuthorizeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T12:53:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Service\\TokenService.cs",
               "RelativeDocumentMoniker": "Service\\TokenService.cs",
               "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Service\\TokenService.cs",
               "RelativeToolTip": "Service\\TokenService.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAlwDkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T19:46:15.304Z"
+              "WhenOpened": "2026-01-12T19:46:15.304Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Models\\RefreshToken.cs",
               "RelativeDocumentMoniker": "Models\\RefreshToken.cs",
               "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Models\\RefreshToken.cs",
               "RelativeToolTip": "Models\\RefreshToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T19:21:01.641Z"
+              "WhenOpened": "2026-01-12T19:21:01.641Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -103,31 +156,34 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T19:06:07.254Z"
+              "WhenOpened": "2026-01-12T19:06:07.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T19:05:56.994Z"
+              "WhenOpened": "2026-01-12T19:05:56.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABOAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T18:58:06.187Z"
+              "WhenOpened": "2026-01-12T18:58:06.187Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -137,9 +193,10 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-12T18:55:44.198Z"
+              "WhenOpened": "2026-01-12T18:55:44.198Z",
+              "EditorCaption": ""
             }
           ]
         }
