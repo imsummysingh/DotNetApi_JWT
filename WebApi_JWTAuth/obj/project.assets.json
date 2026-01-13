@@ -4236,19 +4236,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SSINGH47\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSINGH47\\source\\repos\\DotNetApi_JWT\\WebApi_JWTAuth\\WebApi_JWTAuth.csproj",
+      "projectUniqueName": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\WebApi_JWTAuth.csproj",
       "projectName": "WebApi_JWTAuth",
-      "projectPath": "C:\\Users\\SSINGH47\\source\\repos\\DotNetApi_JWT\\WebApi_JWTAuth\\WebApi_JWTAuth.csproj",
-      "packagesPath": "C:\\Users\\SSINGH47\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SSINGH47\\source\\repos\\DotNetApi_JWT\\WebApi_JWTAuth\\obj\\",
+      "projectPath": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\WebApi_JWTAuth.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "D:\\DotNetApi_JWT\\WebApi_JWTAuth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\SSINGH47\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4326,7 +4326,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
